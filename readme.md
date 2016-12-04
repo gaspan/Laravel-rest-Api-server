@@ -1,7 +1,7 @@
 # Laravel-rest-Api-server
 laravel khusus server restfull api sob!!<br>
 ##instalasi
-* buka cmd, masuk ke foldernya keti 'install composer'<br>
+* buka cmd, masuk ke foldernya ketik 'install composer'<br>
 * buat database todo
 
 ##penggunaan restfull
